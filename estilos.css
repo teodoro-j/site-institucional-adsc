@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     color: #F1F1F1;
+    font-family: sans-serif;
 }
 
 .header {
@@ -79,4 +80,23 @@ li {
 
 .caixa img {
     width: 170px;
+}
+
+.footer {
+    padding: 45px 0;
+    background-color: #32b9cd;
+}
+
+.footer .container {
+justify-content: center;
+}
+
+.footer p {
+    color: #ffffff;
+}
+
+li a{
+    color: #e3b062;
+    text-decoration: none;
+    cursor: pointer;
 }
